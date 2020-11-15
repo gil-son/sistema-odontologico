@@ -4,8 +4,8 @@ Projeto da materia de Sistemas Cliente-Servidor em conjunto com mais 9 membros.
 ## Membros Colaboradores e seus respectivos papeis na construcao do projeto ##
 
 ### Back-end ###
-* Gabriel R.
-* Rodrigo P.
+<a href="https://github.com/gomesgr" target="_blank">* Gabriel R.</a>
+<a href="https://github.com/Akavariat" target="_blank">* Rodrigo P.</a>
 
 ### Front-end ###
 * Diego
