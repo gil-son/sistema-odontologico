@@ -1,16 +1,16 @@
-# projeto-prof-jadir-sistema-odontologico
-Projeto da materia de Sistemas Cliente-Servidor em conjunto com mais 9 membros.
+# project-prof-jadir-system-dentistry
+Project of the Client-Server Systems material together with 9 members.
 
-## Membros Colaboradores e seus respectivos papeis na construcao do projeto ##
+## Contributing Members and their respective roles in the construction of the project ##
 
-### Back-end ###
-<a href="https://github.com/gomesgr" target="_blank">• Gabriel R.</a><br/>
-<a href="https://github.com/Akavariat" target="_blank">• Rodrigo P.</a><br/>
+### Internal process ###
+<a href="https://github.com/gomesgr" target="_blank"> • Gabriel R. </a> <br/>
+<a href="https://github.com/Akavariat" target="_blank"> • Rodrigo P. </a> <br/>
 
-### Front-end ###
+### The front ###
 * Diego
 * Gilson
-* Joas
+*Joas
 
 ### DBA ###
 * Joseph
@@ -18,5 +18,5 @@ Projeto da materia de Sistemas Cliente-Servidor em conjunto com mais 9 membros.
 * Djair
 * Rodrigo
 
-### Gerente ###
+### Manager ###
 * Mariana D.
